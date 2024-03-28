@@ -43,4 +43,4 @@ quick overview of their inventory and helping to make informed decisions.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/your-app-name.git
+   git clone https://github.com/Saurabh-Dey/mern-react-native-ecom-server.git   
