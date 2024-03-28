@@ -57,3 +57,7 @@ quick overview of their inventory and helping to make informed decisions.
    ```sh
    node server.js
 Remember to check the README.md file in the GitHub repository for any specific instructions related to the project you’re running. Also, ensure that you have Node.js and npm installed on your machine before executing these commands
+
+### Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
+
+Essential Variables PORT= DB_URI = STRIPE_API_KEY= STRIPE_SECRET_KEY= JWT_SECRET= JWT_EXPIRE= COOKIE_EXPIRE= SMPT_SERVICE = SMPT_MAIL= SMPT_PASSWORD= SMPT_HOST= SMPT_PORT= CLOUDINARY_NAME CLOUDINARY_API_KEY CLOUDINARY_API_SECRET fill each filed with your info respectively
