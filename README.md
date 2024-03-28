@@ -8,7 +8,7 @@ experience for users.
 - Offers two user profiles: normal users and administrators, each with its own set of
 features and capabilities
 
-### Features
+## Features
 
 #### For Normal Users
 - Browse through a wide selection of products, with the ability to filter and search based
