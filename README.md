@@ -1,6 +1,12 @@
 # E-Commerce App
 
-## Description
+## Project Description
+
+- A mobile e-commerce application designed to provide an easy and convenient shopping
+experience for users.
+- Built using the popular cross-platform technology, React Native, to ensure compatibility
+- Offers two user profiles: normal users and administrators, each with its own set of
+features and capabilities
 
 This mobile e-commerce application is built with React Native for compatibility with both iOS and Android platforms. It offers a seamless shopping experience for users and efficient management tools for administrators.
 
