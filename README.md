@@ -8,19 +8,27 @@ experience for users.
 - Offers two user profiles: normal users and administrators, each with its own set of
 features and capabilities
 
-This mobile e-commerce application is built with React Native for compatibility with both iOS and Android platforms. It offers a seamless shopping experience for users and efficient management tools for administrators.
-
 ### Features
 
 #### For Normal Users
-- Browse products with detailed descriptions and images.
-- Choose between cash on delivery or online payment options, including Stripe integration.
-- Track orders in real-time from placement to delivery.
+- Browse through a wide selection of products, with the ability to filter and search based
+on various criteria such as category, price, and product name.
 
-#### For Administrators
-- Access a dashboard to manage the product catalog effectively.
-- Monitor orders and manage customer service inquiries.
-- Visualize inventory levels with an intuitive pie chart.
+- Choose between two payment options: cash on delivery or online payment via Stripe, a
+well-known and secure payment platform.
+- Conveniently place orders and monitor their status through the app.
+
+
+#### For Administrators Dashboard Features:
+- A powerful and intuitive dashboard exclusively for administrators, allowing them to
+manage the product catalog and monitor orders.
+- Add new categories, create new products, edit existing products and product images,
+and manage product availability.
+- Monitor all orders and manage order processing, from receiving the order to delivering
+the product.
+- Visualize the number of in-stock and out-of-stock products using a pie chart, providing a
+quick overview of their inventory and helping to make informed decisions.
+
 
 ## Getting Started
 
