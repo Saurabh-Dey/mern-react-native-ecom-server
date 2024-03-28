@@ -75,6 +75,3 @@ I'm passionate about building and contributing to the web ecosystem with the MER
 - 💬 Ask me about anything related to **JavaScript**, **React Native**, and **building REST APIs**.
 - ⚡ Fun fact: I love to explore new technologies and contribute to developer communities!
 
-### Connect with me:
-
-!GitHub Follow
