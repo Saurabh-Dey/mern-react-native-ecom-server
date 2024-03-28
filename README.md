@@ -42,5 +42,5 @@ quick overview of their inventory and helping to make informed decisions.
 ### Installation
 
 1. Clone the repository:
-   ```sh
+  
    git clone https://github.com/Saurabh-Dey/mern-react-native-ecom-server.git   
