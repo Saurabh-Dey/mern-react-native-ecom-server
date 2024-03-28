@@ -56,4 +56,4 @@ quick overview of their inventory and helping to make informed decisions.
 5. Otherwise, you may need to run the server file directly with Node. For example:
    ```sh
    node server.js
-   Remember to check the README.md file in the GitHub repository for any specific instructions related to the project you’re running. Also, ensure that you have Node.js and npm installed on your machine before executing these commands
+Remember to check the README.md file in the GitHub repository for any specific instructions related to the project you’re running. Also, ensure that you have Node.js and npm installed on your machine before executing these commands
