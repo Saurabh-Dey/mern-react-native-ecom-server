@@ -60,4 +60,21 @@ Remember to check the README.md file in the GitHub repository for any specific i
 
 ### Make Sure to Create a config.env file in backend/config directory and add appropriate variables in order to use the app.
 
-Essential Variables PORT= DB_URI = STRIPE_API_KEY= STRIPE_SECRET_KEY= JWT_SECRET= JWT_EXPIRE= COOKIE_EXPIRE= SMPT_SERVICE = SMPT_MAIL= SMPT_PASSWORD= SMPT_HOST= SMPT_PORT= CLOUDINARY_NAME CLOUDINARY_API_KEY CLOUDINARY_API_SECRET fill each filed with your info respectively
+Essential Variables      PORT = DB_URI = STRIPE_API_KEY= STRIPE_SECRET_KEY= JWT_SECRET= JWT_EXPIRE= COOKIE_EXPIRE= SMPT_SERVICE = SMPT_MAIL= SMPT_PASSWORD= SMPT_HOST= SMPT_PORT= CLOUDINARY_NAME = CLOUDINARY_API_KEY = CLOUDINARY_API_SECRET fill each filed with your info respectively
+
+# Hi there, I'm Sourav Dey 👋
+
+## Intern MERN Stack Developer
+
+I'm passionate about building and contributing to the web ecosystem with the MERN stack. Here's a bit about me:
+
+- 🔭 I’m currently working on web applications using **MongoDB**, **Express.js**, **React**, and **Node.js**.
+- 🌱 I’m currently learning about **TypeScript** and **WebRTC**.
+- 👯 I’m looking to collaborate on **open-source projects** and **innovative web solutions**.
+- 🤔 I’m looking for help with **understanding complex algorithms** and **system design**.
+- 💬 Ask me about anything related to **JavaScript**, **React Native**, and **building REST APIs**.
+- ⚡ Fun fact: I love to explore new technologies and contribute to developer communities!
+
+### Connect with me:
+
+!GitHub Follow
