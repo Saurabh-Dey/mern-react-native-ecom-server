@@ -42,5 +42,18 @@ quick overview of their inventory and helping to make informed decisions.
 ### Installation
 
 1. Clone the repository:
-  
+   ```sh
    git clone https://github.com/Saurabh-Dey/mern-react-native-ecom-server.git   
+2. Navigate to the Repository Directory Change into the directory that was created by the clone command:
+   ```sh
+   cd your-repository-directory
+3. Install Dependencies Run the following command to install all the dependencies listed in the package.json file:
+   ```sh
+   npm install
+4. Start the Node Server If the repository has a start script defined in the package.json, you can start the server using:
+   ```sh
+   npm start
+5. Otherwise, you may need to run the server file directly with Node. For example:
+   ```sh
+   node server.js
+   Remember to check the README.md file in the GitHub repository for any specific instructions related to the project you’re running. Also, ensure that you have Node.js and npm installed on your machine before executing these commands
