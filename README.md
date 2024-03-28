@@ -30,13 +30,14 @@ the product.
 quick overview of their inventory and helping to make informed decisions.
 
 
-## Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - Node.js
 - React Native CLI
 - iOS or Android development environment setup
+- mongoDB
+- React
 
 ### Installation
 
